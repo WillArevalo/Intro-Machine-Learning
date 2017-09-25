@@ -1,0 +1,6 @@
+Que es Machine Learning?
+
+Maching Learning = Serie de algoritmos que hacen que un sistema sea artificialmente inteligente.
+Los algoritmos se dividen en 2 partes:
+- Aprendizaje supervisado. En este aprendizaje somos nosotros los que guiamos al algoritmo a la respuesta correcta.
+- Aprendizaje sin supervisión. El algoritmo detecta patrones y agrupa la información con estos patrones. Aquí nosotros podemos darle características a los algoritmos y éstos agrupan todo mediante patrones relacionados con esa información.

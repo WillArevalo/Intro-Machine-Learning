@@ -1,0 +1,27 @@
+Intro To Machine Learning
+
+Tipos de IA:
+
+Inteligencia Artificial = Intento de hacer tan o más inteligente que un humano. Darle la capacidad de razonar o pensar en función a los datos que se le está pasando.
+Niveles de Inteligencia Artificial:
+- Inteligencia Artificial Débil. Como ejemplo, un asistente de celular como Siri. No rebasan la línea de lo que están programados para hacer.
+- Inteligencia Artificial Fuerte. Tiene la habilidad de reconocer patrones en el comportamiento humano y/o el ambiente.
+- Super Inteligencia Artificial. Supera la inteligencia de un humano, incluso alguno considerado genio. Tiene la capacidad de tomar decisiones propias,
+Singularity = Es el nombre que se le da al concepto del momento en el que la Super Inteligencia Artificial va a dominar.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+Anatomía de la Inteligencia Artificial
+En la anatomía de la Inteligencia Artificial existen 5 partes. Es importante tomar en cuenta que en la Inteligencia Artificial Débil no necesariamente deben existir estas 5. Sin embargo, para que una Inteligencia Artificial sea Fuerte o Super, necesita tener estas 5 partes.
+Estas son las 5 partes:
+- Percepción. A través de sensores.
+- Procesamiento natural del lenguaje.
+- Representación del conocimiento. Darle una imagen gráfica a los conocimientos o eventos.
+- Razonamiento. Capacidad para tomar una decisión.
+- Planeación y Navegación. La forma de reaccionar ante situaciones inesperadas.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+Que es Machine Learning?
+Maching Learning = Serie de algoritmos que hacen que un sistema sea artificialmente inteligente.
+Los algoritmos se dividen en 2 partes:
+- Aprendizaje supervisado. En este aprendizaje somos nosotros los que guiamos al algoritmo a la respuesta correcta.
+- Aprendizaje sin supervisión. El algoritmo detecta patrones y agrupa la información con estos patrones. Aquí nosotros podemos darle características a los algoritmos y éstos agrupan todo mediante patrones relacionados con esa información.
