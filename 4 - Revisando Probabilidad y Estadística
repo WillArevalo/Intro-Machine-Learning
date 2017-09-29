@@ -1,9 +1,11 @@
 Machine Learning utiliza una serie de técnicas de Probabilidad y Estadística para predecir un valor basado en la información que le proveemos, es por esto que es muy importante que tengamos claro algunos conceptos de esta materia.
-Conceptos importantes:
-- Media o Promedio = La suma de las medidas dividida entre el número total de datos.
-
-- Moda = Es el valor con mayor frecuencia en una distribución de datos.
-- Mediana = Es el valor que ocupa el lugar central de todos los datos cuando están agrupados de menor a mayor.
+### Conceptos importantes:
+* #### *Media o Promedio *
+	La suma de las medidas dividida entre el número total de datos.
+* #### *Moda *
+	Es el valor con mayor frecuencia en una distribución de datos.
+* #### *Mediana *
+	Es el valor que ocupa el lugar central de todos los datos cuando están agrupados de menor a mayor.
 
 _ _ _ _ _ _  __ _ _  _ _ _ _ _ _ _ _ 
 
